@@ -1,5 +1,5 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F76303&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shrinidhi+Pandit+%F0%9F%91%8B;Developer+%7C+Engineer+%7C+ISTE+Member+%F0%9F%9A%80;Coding+Creative+Solutions+Daily+%F0%9F%9A%80" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F76303&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shrinidhi+Pandit+%F0%9F%91%8B;Passionate+Developer+%7C+Software+Engineer+%7C+ISTE+Member+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
@@ -13,61 +13,38 @@ I am a passionate developer with a strong background in computer science, specia
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-    <a href="https://github.com/Shrinidhi444">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/shrinidhi-pandit-219832259/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/explore/">
-        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="https://github.com/Shrinidhi444/Shrinidhi-Resume/blob/main/SHRINIDHI%20RESUME.pdf">
-        <img alt="Resume" src="https://img.shields.io/badge/Download_Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-</p>
+## 🌐 Connect with me:
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Shrinidhi444/Shrinidhi-Resume/blob/main/SHRINIDHI%20RESUME.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-pandit-219832259/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrinidhi444)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/explore/)
 
 ---
 
 ## 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,powerbi,mysql,fastapi,mongodb,git,postman,vscode" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi444&show_icons=true&theme=city_lights&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shrinidhi444&theme=city_lights" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Shrinidhi444&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Shrinidhi444&theme=city_lights&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact)
 
 ---
 
 ## ✍️ Dev Quote:
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Shrinidhi444&label=Profile%20Visitors&color=12&icon=1&pretty=true" />
-</p>
-
----
-
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
-</p>
-
-<p align="center"><b>Keep Learning, Keep Building! 🚀</b></p>
+[![](https://visitcount.itsvg.in/api?id=Shrinidhi444&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Profile customized with GPRM (https://gprm.itsvg.in) -->
