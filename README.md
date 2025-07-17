@@ -51,5 +51,3 @@ I am a passionate developer with a strong background in computer science, specia
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Shrinidhi444&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Profile customized with GPRM (https://gprm.itsvg.in) --> make it some what creative and animated  make Hi i am shrinidhi dynamic and change the tech stack and the connect with mw else keep everything same and change the colour 
