@@ -7,14 +7,14 @@
 
 ---
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,powerbi,mysql,fastapi,mongodb,github,postman" />
 </p>
 
 ---
 
-### 🌟 About Me:
+## 🌟 About Me:
 - 💡 Proficient in **Java**, **Python**, **Power BI**, **MySQL**
 - 📊 Experienced in building **efficient solutions** to complex problems
 - 👥 Active **ISTE Coordinator** contributing to tech education
@@ -22,7 +22,7 @@
 
 ---
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 <p align="center">
     <a href="https://github.com/Shrinidhi444">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi444&show_icons=true&theme=city_lights&count_private=true" alt="GitHub Stats" />
 </p>
@@ -53,7 +53,7 @@
 
 ---
 
-### ✍️ Dev Quote:
+## ✍️ Dev Quote:
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
