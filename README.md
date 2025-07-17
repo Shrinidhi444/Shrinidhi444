@@ -12,13 +12,24 @@ I am a passionate developer with a strong background in computer science, specia
 
 ---
 
-## 🌐 Connect with me:
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Shrinidhi444/Shrinidhi-Resume/blob/main/SHRINIDHI%20RESUME.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-pandit-219832259/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrinidhi444)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/explore/)
+### 🔗 Connect with me:
+<p align="center">
+    <a href="https://github.com/Shrinidhi444">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/shrinidhi-pandit-219832259/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/explore/">
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+    <a href="https://github.com/Shrinidhi444/Shrinidhi-Resume/blob/main/SHRINIDHI%20RESUME.pdf">
+        <img alt="Resume" src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+    </a>
+</p>
 
 ---
+
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
