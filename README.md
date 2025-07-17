@@ -1,9 +1,8 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0077FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Shrinidhi+Pandit+%F0%9F%91%8B;Developer+%F0%9F%92%BB;ISTE+Member+%F0%9F%93%96;Software+Engineer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F76303&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shrinidhi+Pandit+%F0%9F%91%8B;Developer+%7C+Engineer+%7C+ISTE+Member+%F0%9F%9A%80;Coding+Creative+Solutions+Daily+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
-
 ## 🌟 About Me:
 I am a passionate developer with a strong background in computer science, specializing in artificial intelligence and software development.  
 💡 Proficient in **Java**, **Python**, **Power BI**, and **MySQL**  
@@ -34,35 +33,17 @@ I am a passionate developer with a strong background in computer science, specia
 ---
 
 ## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi444&show_icons=true&theme=city_lights&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shrinidhi444&theme=city_lights" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Shrinidhi444&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Shrinidhi444&theme=city_lights&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact)
 
 ---
 
 ## ✍️ Dev Quote:
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Shrinidhi444&label=Profile%20Visitors&color=12&icon=1&pretty=true" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Shrinidhi444&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
-</p>
-
-<p align="center"><b>Keep Learning, Keep Building! 🚀</b></p>
-
-<!-- Profile customized with GPRM (https://gprm.itsvg.in) -->
+<!-- Profile customized with GPRM (https://gprm.itsvg.in) --> make it some what creative and animated  make Hi i am shrinidhi dynamic and change the tech stack and the connect with mw else keep everything same and change the colour 
