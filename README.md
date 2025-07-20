@@ -39,9 +39,14 @@ I am a passionate developer with a strong background in computer science, specia
 ---
 
 ## 📈 GitHub Stats:
+<!-- GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Shrinidhi444&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Shrinidhi444&theme=city_lights&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact&border_radius=4.5)
 
 ---
 
