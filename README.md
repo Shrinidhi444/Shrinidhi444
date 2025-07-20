@@ -42,8 +42,8 @@ I am a passionate developer with a strong background in computer science, specia
 <!-- GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Shrinidhi444&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
 
-<!-- Streak Stats (Corrected Border Version) -->
-<img src="https://streak-stats.demolab.com?user=priyanka8625&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
+<!-- Streak Stats (Consistent Theme and Username) -->
+![](https://github-readme-streak-stats.herokuapp.com?user=Shrinidhi444&theme=city_lights&hide_border=false)
 
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact)
