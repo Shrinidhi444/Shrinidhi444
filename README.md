@@ -39,7 +39,7 @@ I am a passionate developer with a strong background in computer science, specia
 ---
 
 ## 📈 GitHub Stats:
-<!-- GitHub Stats -->
+
 <!-- GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Shrinidhi444&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
 
