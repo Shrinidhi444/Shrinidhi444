@@ -1,6 +1,6 @@
 <h1 align="center"> 
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0077FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Shrinidhi+Pandit+%F0%9F%91%8B;Developer+%F0%9F%92%BB;ISTE+Member+%F0%9F%93%96;Software+Engineer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-</h1>
+</h1> 
 
 ---
 ## 🌟 About Me:
