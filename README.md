@@ -5,7 +5,7 @@
 ---
 ## 🌟 About Me:
 I am a passionate developer with a strong background in computer science, specializing in artificial intelligence and software development.            
-💡 Proficient in **Java**, **Python**,**MySQL**.       
+💡 Proficient in **Java**, **Python**,**MySQL**,**C**,**HTML**,**CSS**.       
 📊 Experienced in developing innovative and efficient solutions to complex problems.     
 👥 Active **ISTE Coordinator**, contributing to tech education and collaborative learning.      
 🔄 Committed to continuous growth and staying updated with emerging technologies.         
@@ -33,7 +33,7 @@ I am a passionate developer with a strong background in computer science, specia
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,powerbi,mysql,fastapi,mongodb,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,powerbi,mysql,mongodb,github" />
 </p>
 
 ---
@@ -45,9 +45,6 @@ I am a passionate developer with a strong background in computer science, specia
 
 <!-- Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact&border_radius=4.5)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=city_lights&hide_border=false&layout=compact&border_radius=4.5)
 
 ---
 
