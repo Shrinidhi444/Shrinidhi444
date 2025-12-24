@@ -33,7 +33,7 @@ I am a passionate developer with a strong background in computer science, specia
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,powerbi,mysql,mongodb,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,sql,mongodb,github" />
 </p>
 
 ---
