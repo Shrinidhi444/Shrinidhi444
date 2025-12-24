@@ -5,7 +5,7 @@
 ---
 ## 🌟 About Me:
 I am a passionate developer with a strong background in computer science, specializing in artificial intelligence and software development.            
-💡 Proficient in **Java**, **Python**,**MySQL** and **Power BI**.       
+💡 Proficient in **Java**, **Python**,**MySQL**.       
 📊 Experienced in developing innovative and efficient solutions to complex problems.     
 👥 Active **ISTE Coordinator**, contributing to tech education and collaborative learning.      
 🔄 Committed to continuous growth and staying updated with emerging technologies.         
