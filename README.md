@@ -1,11 +1,5 @@
 <h1 align="center">Full Stack Developer | MERN Stack | AWS</h1>
 
-<p align="center">
-  Pune, Maharashtra | +91 74476 40454 | shrinidhipandit02@gmail.com | <a href="https://linkedin.com/in/shrinidhi-pandit">LinkedIn</a> | <a href="https://github.com/Shrinidhi444">GitHub</a>
-</p>
-
----
-
 ## PROFESSIONAL SUMMARY
 Full Stack Developer with 6 months of internship experience building web applications using React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL. Experienced in developing REST APIs, implementing JWT authentication, creating responsive user interfaces, designing database schemas, and deploying applications on AWS. Familiar with Git/GitHub, Linux, CI/CD fundamentals, Postman, Agile Scrum, debugging, and performance optimization. Seeking a Full Stack Developer role focused on scalable web applications and end-to-end feature development.
 
