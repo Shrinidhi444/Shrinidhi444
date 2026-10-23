@@ -65,13 +65,21 @@ Full Stack Developer with 6 months of internship experience building web applica
 ---
 
 ## DEVELOPER QUOTE
-> "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-### CONNECT WITH ME
-<p>
-    <a href="https://github.com/Shrinidhi444">GitHub</a> | 
-    <a href="https://linkedin.com/in/shrinidhi-pandit">LinkedIn</a> | 
-    <a href="https://github.com/Shrinidhi444/Shrinidhi-Resume/blob/main/SHRINIDHI%20RESUME.pdf">Download Resume (PDF)</a>[cite: 1]
+## CONNECT & PROFILE
+<p align="center">
+  <a href="https://github.com/Shrinidhi444">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shrinidhi-pandit">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shrinidhi444/Shrinidhi-Resume/blob/main/SHRINIDHI%20RESUME.pdf">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
