@@ -4,7 +4,7 @@
 ## PROFESSIONAL SUMMARY
 Full Stack Developer with 6 months of internship experience building web applications using React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL. Experienced in developing REST APIs, implementing JWT authentication, creating responsive user interfaces, designing database schemas, and deploying applications on AWS. Familiar with Git/GitHub, Linux, CI/CD fundamentals, Postman, Agile Scrum, debugging, and performance optimization[cite: 1]. Seeking a Full Stack Developer role focused on scalable web applications and end-to-end feature development.
 
----
+
 
 ## TECHNICAL SKILLS
 * **Programming Languages:** Python, JavaScript, Java
