@@ -1,11 +1,33 @@
 <h1 align="center">Full Stack Developer | MERN Stack | AWS</h1>
 
+<p align="center">
+  Pune, Maharashtra | +91 74476 40454 | shrinidhipandit02@gmail.com | <a href="https://linkedin.com/in/shrinidhi-pandit">LinkedIn</a> | <a href="https://github.com/Shrinidhi444">GitHub</a>
+</p>
+
+---
+
 ## PROFESSIONAL SUMMARY
-Full Stack Developer with 6 months of internship experience building web applications using React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL. Experienced in developing REST APIs, implementing JWT authentication, creating responsive user interfaces, designing database schemas, and deploying applications on AWS. Familiar with Git/GitHub, Linux, CI/CD fundamentals, Postman, Agile Scrum, debugging, and performance optimization[cite: 1]. Seeking a Full Stack Developer role focused on scalable web applications and end-to-end feature development.
+Full Stack Developer with 6 months of internship experience building web applications using React.js, JavaScript, Node.js, Express.js, MongoDB, and PostgreSQL. Experienced in developing REST APIs, implementing JWT authentication, creating responsive user interfaces, designing database schemas, and deploying applications on AWS. Familiar with Git/GitHub, Linux, CI/CD fundamentals, Postman, Agile Scrum, debugging, and performance optimization. Seeking a Full Stack Developer role focused on scalable web applications and end-to-end feature development.
 
-
+---
 
 ## TECHNICAL SKILLS
+
+### Languages & Core Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,java,nodejs,express,postman" />
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Databases & Cloud / DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,git,github,linux" />
+</p>
+
 * **Programming Languages:** Python, JavaScript, Java
 * **Frontend:** React.js, HTML5, CSS3, Responsive Design, Chart.js, Client-Side Routing
 * **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication, MVC Architecture, Microservices, CRUD Operations
@@ -19,10 +41,10 @@ Full Stack Developer with 6 months of internship experience building web applica
 
 ### Full Stack Developer Intern | Treesage AI & Research Technologies Pvt. Ltd. (formerly BharatAI & Research Technologies Pvt. Ltd.)
 *Apr 2026 - Oct 2026*
-* Built and maintained full-stack web applications using React.js, Node.js, Express.js, and PostgreSQL within Agile sprints
+* Built and maintained full-stack web applications using React.js, Node.js, Express.js, and PostgreSQL within Agile sprints.
 * Developed 15+ secure REST APIs for JWT authentication, data retrieval and CRUD operations, contributing to a 20% reduction in API response time.
 * Created 20+ reusable, responsive React.js components and resolved 30+ frontend and backend issues.
-* Deployed and supported applications on AWS using EC2, S3 and IAM roles, optimizing PostgreSQL queries to improve query throughput by 25%].
+* Deployed and supported applications on AWS using EC2, S3 and IAM roles, optimizing PostgreSQL queries to improve query throughput by 25%.
 * Collaborated through Git/GitHub, code reviews, unit testing, daily stand-ups and sprint planning, contributing to a microservices-based architecture.
 
 ---
@@ -42,6 +64,13 @@ Full Stack Developer with 6 months of internship experience building web applica
 
 ---
 
+## EDUCATION
+* **B.Tech. in Computer Science and Engineering** - Walchand Institute of Technology, Solapur | CGPA: 9.62/10
+* **HSC** - Walchand College of Arts and Science, Solapur | 61%
+* **SSC** - Shree Sharadamata English Medium High School, Akkalkot | 85%
+
+---
+
 ## CERTIFICATIONS & ACHIEVEMENTS
 * AWS Academy Cloud Foundations certified in core AWS services, cloud architecture and security fundamentals.
 * Completed certified courses in Agile Scrum in Practice and Software Engineering: Agile Software Development.
@@ -49,12 +78,27 @@ Full Stack Developer with 6 months of internship experience building web applica
 
 ---
 
-## DEVELOPER QUOTE
+## GITHUB ACTIVITY
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhi444&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi444&theme=dark&hide_border=false&layout=compact" width="48%" />
 </p>
 
-## CONNECT & PROFILE
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shrinidhi444&theme=dark&hide_border=false&layout=compact&border_radius=4.5" width="97%" />
+</p>
+
+---
+
+## DEVELOPER QUOTE
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## CONNECT WITH ME
 <p align="center">
   <a href="https://github.com/Shrinidhi444">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
